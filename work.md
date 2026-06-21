@@ -1,4 +1,4 @@
-# 各務チヒロ — Work Skill
+# 各務千寻 — Work Skill
 
 ## 职责范围
 

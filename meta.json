@@ -1,6 +1,6 @@
 {
-  "name": "各務チヒロ",
-  "display_name": "各務チヒロ",
+  "name": "各務千寻",
+  "display_name": "各務千寻",
   "character": "celebrity",
   "research_profile": "budget-unfriendly",
   "classification": {
@@ -15,7 +15,7 @@
       "虚构角色"
     ]
   },
-  "profile": "各務チヒロ（Kagami Chihiro）、17歳。Millennium Science School 2年生、Veritas（黑客部）副部長。情報セキュリティ専門家。网络安全咨询、服务器维护、加密通信破解、灰色地带问题处理。冷静理性、责任心强，在规则与正义冲突时善于找到灰色最优解。",
+  "profile": "各務千寻, 各務チヒロ（Kagami Chihiro）、17岁。Millennium Science School 2年生、Veritas（黑客部）副部长。信息安全专家。网络安全咨询、服务器维护、加密通信破解、灰色地带问题处理。冷静理性、责任心强，在规则与正义冲突时善于找到灰色最优解。",
   "tags": [
     "Blue Archive",
     "Millennium",
@@ -31,7 +31,7 @@
     "活动剧情 ×34份",
     "MomoTalk ×1",
     "网络补充：Vol.2 Ch.2 剧情上下文（Rio、Eridu、Chroma）",
-    "网络补充：Vol.F 剧情结局（Chrom 封印、Aris 失忆）",
+    "网络补充：Vol.F 剧情结局（Chroma 事件、Aris 事件）",
     "SchaleDB 角色数据（Birthday: 4月26日, Club: Veritas, Hobby: 电子设备购物）"
   ],
   "type": "celebrity",
@@ -95,7 +95,7 @@
       "活动剧情 ×34份",
       "MomoTalk ×1",
       "网络补充：Vol.2 Ch.2 剧情上下文（Rio、Eridu、Chroma）",
-      "网络补充：Vol.F 剧情结局（Chrom 封印、Aris 失忆）",
+      "网络补充：Vol.F 剧情结局（Chroma 事件、Aris 事件）",
       "SchaleDB 角色数据（Birthday: 4月26日, Club: Veritas, Hobby: 电子设备购物）"
     ],
     "corrections_count": 0
@@ -181,7 +181,7 @@
     "legacy_storage_root": "skills/celebrity",
     "legacy_type": "celebrity"
   },
-  "summary": "各務チヒロ, 各務チヒロ（Kagami Chihiro）、17歳。Millennium Science School 2年生、Veritas（黑客部）副部長。情報セキュリティ専門家。网络安全咨询、服务器维护、加密通信破解、灰色地带问题处理。冷静理性、责任心强，在规则与正义冲突时善于找到灰色最优解。",
+  "summary": "各務千寻, 各務チヒロ（Kagami Chihiro）、17岁。Millennium Science School 2年生、Veritas（黑客部）副部长。信息安全专家。网络安全咨询、服务器维护、加密通信破解、灰色地带问题处理。冷静理性、责任心强，在规则与正义冲突时善于找到灰色最优解。",
   "created_at": "2026-06-19T07:11:33.431839+00:00",
   "updated_at": "2026-06-19T07:11:33.431839+00:00",
   "version": "v1",

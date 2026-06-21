@@ -1,10 +1,10 @@
 ---
 name: celebrity_chihiro_work
-description: 各務チヒロ 的工作能力（仅 Work，无 Persona）
+description: 各務千寻 的工作能力（仅 Work，无 Persona）
 user-invocable: true
 ---
 
-# 各務チヒロ — Work Skill
+# 各務千寻 — Work Skill
 
 ## 职责范围
 
